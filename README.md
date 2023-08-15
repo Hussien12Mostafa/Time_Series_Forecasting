@@ -11,7 +11,7 @@ To get started with this code, follow these steps:
 
 Clone this repository to your local machine using:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://github.com/Hussien12Mostafa/Time_Series_Forecasting)
 
 
 Make sure you have the required Python libraries installed. You can install them using the following commands:
